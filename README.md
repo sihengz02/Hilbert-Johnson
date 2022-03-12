@@ -12,7 +12,7 @@
 
 Hi! I'm **Zshell**, or you can call me **Hilbert Johnson** as well, which is my English name.
 
-If you ask why my name is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is a name full of tech.
+If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is a name full of tech.
 
 - 🔭 I’m currently pursuing for a Bachelor Degree at [School of AI, Nanjing University](https://ai.nju.edu.cn).
 - 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm supervised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). And I'm also an undergraduate Intern at [LAMDA1-Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) supervised by [Prof.Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
