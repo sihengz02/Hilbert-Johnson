@@ -14,7 +14,7 @@ Hi! I'm **Zshell**, or you can call me **Hilbert Johnson** as well, which is my 
 
 If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is an id full of the sense of tech.
 
-- 🔭 I’m a Sophomore now at [School of AI, Nanjing University](https://ai.nju.edu.cn).
+- 🔭 I’m a **Sophomore** now at [School of AI, Nanjing University](https://ai.nju.edu.cn).
 - 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). And I'm also an undergraduate Intern at [LAMDA1-Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) supervised by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 - 🤔 My research interest includes NCT(Neraul Chat Translation) and Image Caption. 
 - 💗 [This](https://github.com/CCisWorking) is my girlfriend's github, who is an undergradute at [Department of Computer Science and Technology, Nanjing University](https://cs.nju.edu.cn/main.htm).
