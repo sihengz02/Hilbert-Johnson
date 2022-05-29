@@ -14,6 +14,10 @@ Hi! I'm **Zshell**, or you can call me **Hilbert Johnson** as well, which is my 
 
 If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is an id full of the sense of tech.
 
+**I'm actively looking for research intern in NLP area and I will begin applying for Phd/MS in the USA/HK/Singapore/Switzerland at the end of 2023! Feel free to contact me by email!**
+
+**You can download my cv at [here](https://hilbert-johnson.github.io/files/cv.pdf).**
+
 - 🔭 I’m a **Sophomore** now at [School of AI, Nanjing University](https://ai.nju.edu.cn).
 - 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). And I'm also an undergraduate Intern at [LAMDA1-Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) supervised by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 - 🤔 My research interest now mainly lies in Neural Machine Translation and Multimodality. 
