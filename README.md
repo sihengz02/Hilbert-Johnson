@@ -14,7 +14,7 @@ Hi! I'm **Zshell**, or you can call me **Hilbert Johnson** as well, which is my 
 
 If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is an id full of the sense of tech.
 
-**I'm actively looking for research intern in NLP area and I will begin applying for Phd/MS in the USA/HK/Singapore/Switzerland at the end of 2023! Feel free to contact me by email!**
+**I'm actively looking for research intern in NLP area and I will begin applying for Phd/MS in the USA/HK/Singapore/Switzerland at the end of 2023! Feel free to contact me by [email](mailto:zhaosh@smail.nju.edu.cn)!**
 
 **You can download my cv at [here](https://hilbert-johnson.github.io/files/cv.pdf).**
 
