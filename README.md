@@ -18,7 +18,7 @@ If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chines
 
 **You can download my cv at [here](https://hilbert-johnson.github.io/files/cv.pdf).**
 
-- 🔭 I’m a **Sophomore** now at [School of AI, Nanjing University](https://ai.nju.edu.cn).
+- 🔭 I’m a **Junior** now at [School of AI, Nanjing University](https://ai.nju.edu.cn) and I will be an exchange student at Department of Computer Science, National University of Singapore in next semester, i.e. 23spring.
 - 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). And I'm also an undergraduate Intern at [LAMDA1-Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) supervised by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
 - 🤩 Nowadays I work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to differentiable simulation for Robotics.
 - 🤔 My research interest now mainly lies in Neural Machine Translation and Differentiable Simulation. 
