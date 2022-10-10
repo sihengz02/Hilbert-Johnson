@@ -3,7 +3,7 @@
 ## Zshell
 
 
-> La vie est comme une pièce de théâtre. 😝
+> La vie est comme une pièce de théâtre.
 [![Email](https://img.shields.io/badge/-zhaosh@smail.nju.edu.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zhaosh@smail.nju.edu.cn)
 
 <a href="#">
@@ -12,7 +12,7 @@
 
 Hi! I'm **Zshell**.
 
-If you ask why my id is Zshell, it's because I'm a Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is an id full of the sense of tech.
+If you ask why my id is Zshell, it's because I'm Chinese and my name in Chinese is **Z**hao **S**i-**H**eng, and **Zsh**ell is an id full of the sense of tech.
 
 **I'm actively looking for research intern in Robotics/NLP area and I will begin applying for Phd/MS position in the USA/HK/Singapore/Switzerland at the end of 2023! Feel free to contact me by [email](mailto:zhaosh@smail.nju.edu.cn)!**
 
