@@ -4,7 +4,9 @@
 
 
 > La vie est comme une pièce de théâtre.
+
 [![Email](https://img.shields.io/badge/-zhaosh@smail.nju.edu.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zhaosh@smail.nju.edu.cn)
+[![Email](https://img.shields.io/badge/-zhaosiheng@u.nus.edu-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zhaosiheng@u.nus.edu)
 
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hilbert-Johnson&layout=compact&hide=html,java' width="400px" />
