@@ -12,12 +12,11 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hilbert-Johnson&layout=compact&hide=html,java' width="400px" />
 </a>
 
-**I'm actively looking for research intern in Robotics/NLP area and I will begin applying for Phd/MS position in the USA/HK/Singapore/Switzerland at the end of 2023! Feel free to contact me by [email](mailto:zhaosh@smail.nju.edu.cn)!**
+**I'm actively looking for RA position in Robotics/NLP and I will begin applying for CS Phd/MS in the United States/Canada/Singapore/HongKong at the end of 2023! Feel free to contact me by email!**
 
 **You can download my cv at [here](https://hilbert-johnson.github.io/files/cv.pdf).**
 
-- 🔭 I’m a **Junior** now at [School of AI, Nanjing University](https://ai.nju.edu.cn) and I will be an exchange student at Department of Computer Science, National University of Singapore in next semester, i.e. 23spring (look forward to meeting you guys in Singapore!).
-- 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). And I'm also an undergraduate Intern at [LAMDA1-Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) supervised by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm).
+- 🔭 I’m a **Junior** now at [NJU AI](https://ai.nju.edu.cn) and I will be a fully funded exchange student at NUS CS in 23spring (look forward to meeting you guys in Singapore!).
+- 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
 - 🤩 Nowadays I work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to Robotics.
-- 🤔 My research interest now mainly lies in Neural Machine Translation and Cloth Robotics Manipulation.
-- ⚡ Fun fact: I like many types of music and I play guaitar; I like poetry and science fiction.
+- 🤔 My research interest now mainly lies in Cloth Robotics Manipulation and Neural Machine Translation.
