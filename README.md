@@ -12,7 +12,7 @@
 
 **You can download my cv at [here](https://hilbert-johnson.github.io/files/cv.pdf).**
 
-- 🔭 I’m a **Junior** now at [NJU AI](https://ai.nju.edu.cn) and I will be a fully funded exchange student at [NUS CS](https://www.comp.nus.edu.sg/cs/) in 23spring (look forward to meeting you guys in Singapore!).
-- 🌱 I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
+- 🔭 I’m a **Junior** now at [NJU AI](https://ai.nju.edu.cn) and a fully funded exchange student at [NUS CS](https://www.comp.nus.edu.sg/cs/) in 23spring.
 - 🤩 Nowadays I work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to Robotics.
-- 🤔 My research interest now mainly lies in Robot Cloth Manipulation and Neural Machine Translation.
+- - 🌱 I’m a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
+- 🤔 My research interest now mainly lies in Robotics Learning and Neural Machine Translation.
