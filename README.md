@@ -3,13 +3,13 @@
 ## Siheng Zhao
 
 
-> La vie est comme une pièce de théâtre.
+> Confusion will be my epitaph.
 
 [![Email](https://img.shields.io/badge/-zhaosh@smail.nju.edu.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zhaosh@smail.nju.edu.cn)
-[![Email](https://img.shields.io/badge/-zhaosiheng@u.nus.edu-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zhaosiheng@u.nus.edu)
 
 
-- 🔭 I’m a **Junior** at [NJU AI](https://ai.nju.edu.cn) and a fully funded exchange student at [NUS CS](https://www.comp.nus.edu.sg/cs/) in 23spring.
-- 🤩 Nowadays I work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to Robotics.
+- 🔭 I’m an undergraduate at [NJU AI](https://ai.nju.edu.cn). Nowadays I work as a RA at [HKU NLP](https://hkunlp.github.io/) with [Prof. Tao Yu](https://taoyds.github.io/).
+- 🤩 Previously I was a visiting student at [NUS CS](https://www.comp.nus.edu.sg/cs/), where I'm honoured to work close with [Prof. Lin Shao](https://linsats.github.io/).
 - 🌱 I was a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/), advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
 - 🤔 My research interest now mainly lies in Robotics Learning and the intersection between Robotics and Language.
+- 🎵 Fun facts: I'm a rock music fan and I enjoy Pink Floyd, King Crimson; I play guitar for 10+ years. I like watching soccer, especially Premier League, especially especially Manchester City.
