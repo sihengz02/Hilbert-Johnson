@@ -12,4 +12,4 @@
 - 🤩 Previously I was a visiting student at [NUS CS](https://www.comp.nus.edu.sg/cs/), where I'm honoured to work close with [Prof. Lin Shao](https://linsats.github.io/).
 - 🌱 I was a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/), advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
 - 🤔 My research interest now mainly lies in Robotics Learning and the intersection between Robotics and Language.
-- 🎵 Fun facts: I'm a rock music fan and I enjoy Pink Floyd, King Crimson; I play guitar for 10+ years. I like watching soccer, especially Premier League, especially especially Manchester City.
+- 🎵 Fun facts: I'm a rock music fan and I love Pink Floyd, King Crimson; I have been playing guitar for 10+ years. I like watching soccer, especially the Premier League.
